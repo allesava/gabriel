@@ -21,7 +21,7 @@ body {
 .container {
     background: #fff;
     box-shadow: 0 0 2px hsla(0, 0%, 0%, 0.2);
-    margin: 30px auto;
+    margin: 30px auto 7rem;
     padding: 80px;
     width: calc(100vw - 40px);
     max-width: 1170px;
@@ -144,4 +144,15 @@ article {
 
 .col-span-2 {
     grid-column: span 2;
+}
+
+footer   {
+    text-align: center;
+    font-size: 0.833rem;
+    padding-bottom: 3rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
 }
