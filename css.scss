@@ -1,4 +1,4 @@
-/*! Version 20.12.02 */
+/*! Version 20.12.22 */
 html {
     font-size: 16px;
 }
@@ -12,7 +12,8 @@ body {
     color: #444;
     background: #ededed;
     line-height: 1.6;
-    font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+    font-weight: 300;
+    font-family: halyard-text, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
 }
 
 .container {
