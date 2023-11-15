@@ -1,2 +1,3 @@
 # gabriel
-gabrielsava.com
+Senior PHP and GO software developer
+varonel.github.io/gabriel/
